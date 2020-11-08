@@ -1,6 +1,6 @@
 <p style="color:#990099;font-size:34px;"> <b>Simón P. Castillo</b></p>
 <p style="color:#990099"> Fellow Postdoctoral Researcher <br> 
-Computational Pathology and Integrative Genomics <br>
+<a href="http://yuanlab.org/">Computational Pathology and Integrative Genomics Team </a> <br>
 Division of Molecular Pathology <br>
 Centre for Evolution and Cancer <br>
 The Institute of Cancer Research, London, UK <br>simon.castillo@icr.ac.uk</p>
