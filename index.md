@@ -15,8 +15,8 @@ The last year of my undergrad, I went to Navarno Island for a year, I worked @Wa
 monitoring the invasive population of the American mink (<i>Neovison vison</i>) in Patagonia.
 In March, <b>2016</b>, I got back to the city, starting a PhD @ Catholic University, under the supervision of <a href = "http://biologia.uc.cl/es/cuerpo-academico/profesor/45"> Pablo Marquet</a> and 
 <a href = "http://keymerlab.nl/www/?page_id=26">Juan Keymer</a>, I started my PhD project aiming to understand the ecology of an invasive strategy, such as cancer, within the human ecosystem.<br>
-Between June and August of 2019, I visited the <a Yuanlab.org>Yuan lab</a>, at the Institute of Cancer Research in London, to get a flavour of what Yinyin (Yuan) and her team do in the frontier of AI and oncology. By the end of my visit, Yinyin invited me to follow a postdoc in her lab starting 2020.Amidst the global Coronavirus Pandmeic, I finished my PhD the 2nd of April of <b>2020</b> <br>
-The COVID Pandemic delayed the beginning of my postdoc. However, we managed to start the postdoc despite the global circumstances, I flew to the UK in <b>October 2020</b>, and now I re-join the Yuan lab trying to contribte from an ecological perspective to the study of Brain Tumours.
+Between June and August of 2019, I visited the <a Yuanlab.org>Yuan lab</a>, at the Institute of Cancer Research in London, to get a flavour of what Yinyin (Yuan) and her team do in the frontier of AI and oncology. By the end of my visit, Yinyin invited me to follow a postdoc in her lab starting 2020. Amidst the global Coronavirus Pandemic, I finished my PhD the 2nd of April of <b>2020</b>.<br>
+The COVID Pandemic delayed the beginning of my postdoc. However, we managed starting the postdoc despite the global circumstances, I flew to the UK in <b>October 2020</b>, and now I re-join the <a href="yuanlab.org">Yuan lab</a> trying to contribute from an ecological perspective to the study of Brain Tumours.
 </p>
 ### Beyond the academia
 <p align="justify">
