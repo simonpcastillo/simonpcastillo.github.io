@@ -21,9 +21,8 @@ The COVID Pandemic delayed the beginning of my postdoc. However, we managed to s
 ### Beyond the academia
 <p align="justify">
 I am quite interested in exploring new stuff. Before miving to the UK I spent some months in Southern Chile (<a href = "https://photos.app.goo.gl/a3W4SFLpdf3AJhb28">Pucon</a>) 
-home brewing beer (product: <a href = "https://www.instagram.com/stories/highlights/17941190983405101"/>IPA</a>). 
-It is an amazing expirience and a beautiful process with big spiritual payoffs. Also, I started doing rock climbing (
-<a href = "https://photos.app.goo.gl/yJNVQGCj4zQyHX9b8">me1</a>). I am specially interested in that, since it pushes you to move forward in creative ways while staying healthy. 
+home brewing beer (product: <a href = "https://www.instagram.com/stories/highlights/17941190983405101">IPA style</a>). 
+It is an amazing expirience and a beautiful process with big spiritual payoffs. Also, I started doing <a href = "https://photos.app.goo.gl/yJNVQGCj4zQyHX9b8">rock climbing</a>!!. I am specially interested in that, since it pushes you to move forward in creative ways while staying healthy. 
 Also, other activities which I've been less active tho, are diving (I am a certified Open Water Diver (PADI), <a href="https://www.flickr.com/photos/_simonsky">nature photography + hiking</a>, and <a href="https://soundcloud.com/ngen-mawida">experimental electronic music production</a>
 </p>
 ### Plans
