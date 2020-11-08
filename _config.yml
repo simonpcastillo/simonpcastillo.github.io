@@ -1,0 +1,12 @@
+title: /simoncastillo.github.io
+description: <i>[Mad Hatter] "Do you think I've gone round the bend?" <br>[Alice] "I'm afraid so. You're mad, bonkers, completely off your head. But I'll tell you a secret. All the best people are."</i> 
+show_downloads: true
+theme: jekyll-theme-minimal
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+    author_profile: true
+

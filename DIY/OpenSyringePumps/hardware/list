@@ -1,0 +1,8 @@
+In this project I used the following components:
+1 x Arduino UNO
+2 x Easy Driver v4.4 
+2 x Nema17 stepper motor, model 17HS2408
+2 x push buttons
+2 x potentiometers
+1 x power source (it transforms 220v to 12v)
+1 x protoboard
