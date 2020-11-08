@@ -1,5 +1,5 @@
 <p style="color:#990099;font-size:34px;"> <b>Simón P. Castillo</b></p>
-<p style="color:#990099"> PhD student Ecology Program @PUC <br>spcastil@uc.cl</p>
+<p style="color:#990099"> Fellow Postdoctoral Researcher in Computational Biology and Integrative Genomics @ICR, London, UK <br>simon.castillo@icr.ac.uk</p>
 
 ### Own life history evolution
 <p align="justify">
