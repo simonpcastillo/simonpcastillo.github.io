@@ -1,24 +1,30 @@
 <p style="color:#990099;font-size:34px;"> <b>Simón P. Castillo</b></p>
-<p style="color:#990099"> Fellow Postdoctoral Researcher in Computational Pathology and Integrative Genomics <br>
-The Institute of Cancer Reserach, London, UK <br>simon.castillo@icr.ac.uk</p>
+<p style="color:#990099"> Fellow Postdoctoral Researcher <br> 
+Computational Pathology and Integrative Genomics <br>
+Division of Molecular Pathology <br>
+Centre for Evolution and Cancer <br>
+The Institute of Cancer Research, London, UK <br>simon.castillo@icr.ac.uk</p>
 
 ### My academic life-history evolution
 <p align="justify">
-Endemic from <a href= "https://www.youtube.com/watch?v=NcyXbcsTLtU">Santiago</a>, Chile. Between **2009-2014** I studied Biology (BSc) at the 
+Endemic from <a href= "https://www.youtube.com/watch?v=NcyXbcsTLtU">Santiago</a>, Chile. Between <b>2009-2014</b> I studied Biology (BSc) at the 
 <a href = "http://biologia.uc.cl/es/">School of  Biological Sciences</a> <a href= "http://www.uc.cl/"> @Pontifical Catholic University of Chile</a>. 
 During that time, I worked doing traditional experimental eco-physiology <a href ="http://labecofisiouc.wixsite.com/ecofisio"> @Pancho Bozinovic's Lab</a>, 
 and also volunteering as field technician during the summers in Southern Chile monitoring terrestrial carnivores populations. 
 The last year of my undergrad, I went to Navarno Island for a year, I worked @Wankara Lab monitoring freshwater insect populations as indicators of Global Warming and also, 
 monitoring the invasive population of the American mink (<i>Neovison vison</i>) in Patagonia.
-In March, **2016**, I got back to the city, starting a PhD @ Catholic University, under the supervision of <a href = "http://biologia.uc.cl/es/cuerpo-academico/profesor/45"> Pablo Marquet</a> and 
+In March, <b>2016</b>, I got back to the city, starting a PhD @ Catholic University, under the supervision of <a href = "http://biologia.uc.cl/es/cuerpo-academico/profesor/45"> Pablo Marquet</a> and 
 <a href = "http://keymerlab.nl/www/?page_id=26">Juan Keymer</a>, I started my PhD project aiming to understand the ecology of an invasive strategy, such as cancer, within the human ecosystem.<br>
-Between June and August of 2019, I visited the <a Yuanlab.org>Yuan lab</a>, at the Institute of Cancer Research in London. By the end of my visit, Yinyin invited me to follow a postdoc in her lab starting 2020.Amidst the global Coronavirus Pandmeic, I finished my PhD the 2nd of April of **2020** <br>
-The COVID Pandemic delayed the beginning of my postdoc. However, we manage to start the postdoc despite the global circumstances, I flew to the UK in October 2020, and now I re-join the Yuan lab trying to contribte from an ecological perspective to the study of Brain Tumours.
+Between June and August of 2019, I visited the <a Yuanlab.org>Yuan lab</a>, at the Institute of Cancer Research in London, to get a flavour of what Yinyin (Yuan) and her team do in the frontier of AI and oncology. By the end of my visit, Yinyin invited me to follow a postdoc in her lab starting 2020.Amidst the global Coronavirus Pandmeic, I finished my PhD the 2nd of April of <b>2020</b> <br>
+The COVID Pandemic delayed the beginning of my postdoc. However, we managed to start the postdoc despite the global circumstances, I flew to the UK in <b>October 2020</b>, and now I re-join the Yuan lab trying to contribte from an ecological perspective to the study of Brain Tumours.
 </p>
 ### Beyond the academia
 <p align="justify">
-I am quite interested in exploring new stuff. Before miving to the UK I spent some months in Souther Chile home brewing beer (IPA style). It is an amazing expirience and a beautiful process with big payoffs. ALso I started doing rock climbing. I am specially interested in that, since it pushes you to move forward in creative ways while staying healthy. 
-Also, other activities which I've been less active tho, are diving (I am a certified Open Water Diver (PADI), nature photography + hiking, and <a href="https://soundcloud.com/ngen-mawida">experimental electronic music production</a>
+I am quite interested in exploring new stuff. Before miving to the UK I spent some months in Southern Chile (<a href="https://photos.app.goo.gl/a3W4SFLpdf3AJhb28>Pucon</a>) home brewing beer (IPA style). 
+It is an amazing expirience and a beautiful process with big spiritual payoffs. Also, I started doing rock climbing (<a href="https://photos.app.goo.gl/W25uGQwLHCPuc6Va8>1</a>, 
+<a href="https://photos.app.goo.gl/9kgJA2rT8mAYgnmz9">2</a>, 
+<a href="https://photos.app.goo.gl/mMWFqeCGYs5GuzMU7">3</a>). I am specially interested in that, since it pushes you to move forward in creative ways while staying healthy. 
+Also, other activities which I've been less active tho, are diving (I am a certified Open Water Diver (PADI), <a href="https://www.flickr.com/photos/_simonsky>nature photography + hiking</a>, and <a href="https://soundcloud.com/ngen-mawida">experimental electronic music production</a>
 </p>
 ### Plans
 <p align="justify">
